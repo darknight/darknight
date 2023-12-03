@@ -21,3 +21,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.MY_PROFILE }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 8
