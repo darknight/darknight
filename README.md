@@ -8,7 +8,7 @@
 
 ## Current Projects
 
-- 🔍 [whoishiring-insight](https://github.com/darknight/whoishiring-insight) — Analyze & visualize HN "Who is Hiring" data with AI-driven job insights → [whoishiring-insight.illuminating.me](https://whoishiring-insight.illuminating.me/)
+- 🔍 [whoishiring-insight](https://github.com/darknight/whoishiring-insight) — Analyze & visualize job data from Ruanyifeng's "Who is Hiring" repo with AI-driven insights → [whoishiring-insight.illuminating.me](https://whoishiring-insight.illuminating.me/)
 - 📰 [daily-digest](https://github.com/darknight/daily-digest) — AI-powered daily article summarizer, deployed on Cloudflare Pages → [daily-digest.illuminating.me](https://daily-digest.illuminating.me/)
 - 🧩 [cc-deck](https://github.com/darknight/cc-deck) — Claude Code plugin marketplace for developer productivity
 - ✨ [x-simplify](https://github.com/darknight/x-simplify) — Chrome extension to simplify X/Twitter UI → [Chrome Web Store](https://chromewebstore.google.com/detail/x-simplify/ejeeljadmebpnkdjjcooccelnbigejle)
