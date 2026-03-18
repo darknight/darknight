@@ -10,6 +10,7 @@
 
 - 🔍 [whoishiring-insight](https://github.com/darknight/whoishiring-insight) — Analyze & visualize job data from Ruanyifeng's "Who is Hiring" repo with AI-driven insights → [whoishiring-insight.illuminating.me](https://whoishiring-insight.illuminating.me/)
 - 📰 [daily-digest](https://github.com/darknight/daily-digest) — AI-powered daily article summarizer, deployed on Cloudflare Pages → [daily-digest.illuminating.me](https://daily-digest.illuminating.me/)
+- 🔖 [oh-my-bookmark](https://github.com/darknight/oh-my-bookmark) — Self-hosted bookmark manager, migrated from Raindrop.io → [bookmarks.illuminating.me](https://bookmarks.illuminating.me/)
 - 🧩 [cc-deck](https://github.com/darknight/cc-deck) — Claude Code plugin marketplace for developer productivity
 - ✨ [x-simplify](https://github.com/darknight/x-simplify) — Chrome extension to simplify X/Twitter UI → [Chrome Web Store](https://chromewebstore.google.com/detail/x-simplify/ejeeljadmebpnkdjjcooccelnbigejle)
 - 🤖 [freshrss-agent](https://github.com/darknight/freshrss-agent) — AI Agent playground: from tool use to MCP to Claude Agent SDK
