@@ -17,6 +17,7 @@
 - 📡 [freshrss-mcp-server](https://github.com/darknight/freshrss-mcp-server) — MCP server for self-hosted FreshRSS, giving AI apps access to your RSS feeds
 - 📊 [ci-dashboard](https://github.com/darknight/ci-dashboard) — CI/CD pipeline monitoring dashboard → [ci.illuminating.me](https://ci.illuminating.me/)
 - 🚪 [oh-my-portal](https://github.com/darknight/oh-my-portal) — Personal portal & service directory → [illuminating.me](https://illuminating.me/)
+- 🎛️ [dot-claude-gui](https://github.com/darknight/dot-claude-gui) — All-in-one GUI for managing your `.claude` configuration
 
 ## Connect
 
